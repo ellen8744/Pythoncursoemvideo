@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="904c44fe-5211-4ad2-91f1-912ff1b8bb49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Pythoncursoemvideo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula8-ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des21.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des22.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/des9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-    </list>
+    <list default="true" id="904c44fe-5211-4ad2-91f1-912ff1b8bb49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ellen8744"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ellen8744/Pythoncursoemvideo.git",
+    "accountId": "6d398c48-1f8c-43fb-926b-ba22271ccbc6"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
