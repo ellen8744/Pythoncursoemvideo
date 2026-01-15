@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="904c44fe-5211-4ad2-91f1-912ff1b8bb49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/des24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="904c44fe-5211-4ad2-91f1-912ff1b8bb49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,46 +44,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.aula07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula8-ex2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des21.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des22.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des23.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.projt1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.projt2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gleic/PycharmProjects/Pythoncursoemvideo&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aula07.executor": "Run",
+    "Python.aula08.executor": "Run",
+    "Python.aula8-ex2.executor": "Run",
+    "Python.des016.executor": "Run",
+    "Python.des017.executor": "Run",
+    "Python.des018.executor": "Run",
+    "Python.des019.executor": "Run",
+    "Python.des020.executor": "Run",
+    "Python.des022.executor": "Run",
+    "Python.des10.executor": "Run",
+    "Python.des11.executor": "Run",
+    "Python.des12.executor": "Run",
+    "Python.des13.executor": "Run",
+    "Python.des14.executor": "Run",
+    "Python.des15.executor": "Run",
+    "Python.des21.executor": "Run",
+    "Python.des22.2.executor": "Run",
+    "Python.des23.executor": "Run",
+    "Python.des24.executor": "Run",
+    "Python.des3.executor": "Run",
+    "Python.des4.executor": "Run",
+    "Python.des5.executor": "Run",
+    "Python.des6.executor": "Run",
+    "Python.des7.executor": "Run",
+    "Python.des8.executor": "Run",
+    "Python.des9.executor": "Run",
+    "Python.ex1.executor": "Run",
+    "Python.ex2.executor": "Run",
+    "Python.projt1.executor": "Run",
+    "Python.projt2.executor": "Run",
+    "Python.test1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/gleic/PycharmProjects/Pythoncursoemvideo",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gleic\PycharmProjects\Pythoncursoemvideo" />
