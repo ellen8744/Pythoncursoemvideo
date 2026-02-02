@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="904c44fe-5211-4ad2-91f1-912ff1b8bb49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/des26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/des27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/des28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/des29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/des30.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,55 +51,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.aula07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula8-ex2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des21.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des22.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des23.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des24.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des25.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.des9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.projt1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.projt2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gleic/PycharmProjects/Pythoncursoemvideo&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aula07.executor": "Run",
+    "Python.aula08.executor": "Run",
+    "Python.aula8-ex2.executor": "Run",
+    "Python.des016.executor": "Run",
+    "Python.des017.executor": "Run",
+    "Python.des018.executor": "Run",
+    "Python.des019.executor": "Run",
+    "Python.des020.executor": "Run",
+    "Python.des022.executor": "Run",
+    "Python.des10.executor": "Run",
+    "Python.des11.executor": "Run",
+    "Python.des12.executor": "Run",
+    "Python.des13.executor": "Run",
+    "Python.des14.executor": "Run",
+    "Python.des15.executor": "Run",
+    "Python.des21.executor": "Run",
+    "Python.des22.2.executor": "Run",
+    "Python.des23.executor": "Run",
+    "Python.des24.executor": "Run",
+    "Python.des25.executor": "Run",
+    "Python.des26.executor": "Run",
+    "Python.des27.executor": "Run",
+    "Python.des28.executor": "Run",
+    "Python.des29.executor": "Run",
+    "Python.des3.executor": "Run",
+    "Python.des30.executor": "Run",
+    "Python.des4.executor": "Run",
+    "Python.des5.executor": "Run",
+    "Python.des6.executor": "Run",
+    "Python.des7.executor": "Run",
+    "Python.des8.executor": "Run",
+    "Python.des9.executor": "Run",
+    "Python.ex1.executor": "Run",
+    "Python.ex2.executor": "Run",
+    "Python.projt1.executor": "Run",
+    "Python.projt2.executor": "Run",
+    "Python.test1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/gleic/PycharmProjects/Pythoncursoemvideo",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gleic\PycharmProjects\Pythoncursoemvideo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.des25">
-    <configuration name="des022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.des30">
+    <configuration name="des26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythoncursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/des022.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/des26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="des22.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="des27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythoncursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/des22.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/des27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="des23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="des28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythoncursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/des23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/des28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="des24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="des29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythoncursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,7 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/des24.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/des29.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="des25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="des30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pythoncursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,7 +205,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/des25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/des30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.des25" />
-        <item itemvalue="Python.des24" />
-        <item itemvalue="Python.des23" />
-        <item itemvalue="Python.des22.2" />
-        <item itemvalue="Python.des022" />
+        <item itemvalue="Python.des30" />
+        <item itemvalue="Python.des29" />
+        <item itemvalue="Python.des28" />
+        <item itemvalue="Python.des27" />
+        <item itemvalue="Python.des26" />
       </list>
     </recent_temporary>
   </component>
@@ -230,5 +240,16 @@
       <updated>1761087254203</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/des27.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
